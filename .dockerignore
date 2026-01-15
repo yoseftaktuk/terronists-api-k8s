@@ -1,0 +1,8 @@
+terrorists_data.csv/
+__pycache__/ 
+*.pyc 
+.git/
+k8s/
+.gitignore
+README.md
+screenshots/
